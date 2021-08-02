@@ -1,0 +1,3 @@
+[submodule "lib/tr-base"]
+	path = lib/tr-base
+	url = https://github.com/dapphub/tr-base
